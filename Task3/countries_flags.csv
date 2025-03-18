@@ -1,0 +1,209 @@
+country_code,country_name,flag_path
+ad,Andorra,flag_images/ad.jpg
+ae,United Arab Emirates,flag_images/ae.jpg
+af,Afghanistan,flag_images/af.jpg
+ag,Antigua and Barbuda,flag_images/ag.jpg
+ai,Anguilla,flag_images/ai.jpg
+al,Albania,flag_images/al.jpg
+am,Armenia,flag_images/am.jpg
+ao,Angola,flag_images/ao.jpg
+ar,Argentina,flag_images/ar.jpg
+at,Austria,flag_images/at.jpg
+au,Australia,flag_images/au.jpg
+aw,Aruba,flag_images/aw.jpg
+ax,Åland Islands,flag_images/ax.jpg
+az,Azerbaijan,flag_images/az.jpg
+bb,Barbados,flag_images/bb.jpg
+bd,Bangladesh,flag_images/bd.jpg
+bf,Burkina Faso,flag_images/bf.jpg
+bg,Bulgaria,flag_images/bg.jpg
+bh,Bahrain,flag_images/bh.jpg
+bj,Benin,flag_images/bj.jpg
+bl,Saint Barthélemy,flag_images/bl.jpg
+bm,Bermuda,flag_images/bm.jpg
+bn,Brunei Darussalam,flag_images/bn.jpg
+bo,"Bolivia, Plurinational State of",flag_images/bo.jpg
+br,Brazil,flag_images/br.jpg
+bs,Bahamas,flag_images/bs.jpg
+bt,Bhutan,flag_images/bt.jpg
+bw,Botswana,flag_images/bw.jpg
+by,Belarus,flag_images/by.jpg
+bz,Belize,flag_images/bz.jpg
+ca,Canada,flag_images/ca.jpg
+cd,"Congo, the Democratic Republic of the",flag_images/cd.jpg
+cf,Central African Republic,flag_images/cf.jpg
+cg,Republic of the Congo,flag_images/cg.jpg
+ci,Côte d'Ivoire,flag_images/ci.jpg
+ck,Cook Islands,flag_images/ck.jpg
+cl,Chile,flag_images/cl.jpg
+cm,Cameroon,flag_images/cm.jpg
+cn,China (People's Republic of China),flag_images/cn.jpg
+co,Colombia,flag_images/co.jpg
+cr,Costa Rica,flag_images/cr.jpg
+cu,Cuba,flag_images/cu.jpg
+cv,Cape Verde,flag_images/cv.jpg
+cw,Curaçao,flag_images/cw.jpg
+cz,Czech Republic,flag_images/cz.jpg
+de,Germany,flag_images/de.jpg
+dj,Djibouti,flag_images/dj.jpg
+dm,Dominica,flag_images/dm.jpg
+do,Dominican Republic,flag_images/do.jpg
+dz,Algeria,flag_images/dz.jpg
+ee,Estonia,flag_images/ee.jpg
+eg,Egypt,flag_images/eg.jpg
+eh,Western Sahara,flag_images/eh.jpg
+er,Eritrea,flag_images/er.jpg
+et,Ethiopia,flag_images/et.jpg
+fj,Fiji,flag_images/fj.jpg
+fk,Falkland Islands (Malvinas),flag_images/fk.jpg
+fm,"Micronesia, Federated States of",flag_images/fm.jpg
+fr,France,flag_images/fr.jpg
+ga,Gabon,flag_images/ga.jpg
+gb,United Kingdom,flag_images/gb.jpg
+gd,Grenada,flag_images/gd.jpg
+ge,Georgia,flag_images/ge.jpg
+gg,Guernsey,flag_images/gg.jpg
+gh,Ghana,flag_images/gh.jpg
+gi,Gibraltar,flag_images/gi.jpg
+gl,Greenland,flag_images/gl.jpg
+gm,Gambia,flag_images/gm.jpg
+gn,Guinea,flag_images/gn.jpg
+gq,Equatorial Guinea,flag_images/gq.jpg
+gt,Guatemala,flag_images/gt.jpg
+gu,Guam,flag_images/gu.jpg
+gw,Guinea-Bissau,flag_images/gw.jpg
+gy,Guyana,flag_images/gy.jpg
+hn,Honduras,flag_images/hn.jpg
+hr,Croatia,flag_images/hr.jpg
+ht,Haiti,flag_images/ht.jpg
+hu,Hungary,flag_images/hu.jpg
+id,Indonesia,flag_images/id.jpg
+ie,Ireland,flag_images/ie.jpg
+il,Israel,flag_images/il.jpg
+im,Isle of Man,flag_images/im.jpg
+in,India,flag_images/in.jpg
+iq,Iraq,flag_images/iq.jpg
+ir,"Iran, Islamic Republic of",flag_images/ir.jpg
+it,Italy,flag_images/it.jpg
+je,Jersey,flag_images/je.jpg
+jm,Jamaica,flag_images/jm.jpg
+jo,Jordan,flag_images/jo.jpg
+jp,Japan,flag_images/jp.jpg
+ke,Kenya,flag_images/ke.jpg
+kg,Kyrgyzstan,flag_images/kg.jpg
+kh,Cambodia,flag_images/kh.jpg
+ki,Kiribati,flag_images/ki.jpg
+km,Comoros,flag_images/km.jpg
+kn,Saint Kitts and Nevis,flag_images/kn.jpg
+kp,"Korea, Democratic People's Republic of",flag_images/kp.jpg
+kr,"Korea, Republic of",flag_images/kr.jpg
+kw,Kuwait,flag_images/kw.jpg
+ky,Cayman Islands,flag_images/ky.jpg
+kz,Kazakhstan,flag_images/kz.jpg
+la,Laos (Lao People's Democratic Republic),flag_images/la.jpg
+lb,Lebanon,flag_images/lb.jpg
+lc,Saint Lucia,flag_images/lc.jpg
+li,Liechtenstein,flag_images/li.jpg
+lr,Liberia,flag_images/lr.jpg
+ls,Lesotho,flag_images/ls.jpg
+lt,Lithuania,flag_images/lt.jpg
+lu,Luxembourg,flag_images/lu.jpg
+lv,Latvia,flag_images/lv.jpg
+ly,Libya,flag_images/ly.jpg
+ma,Morocco,flag_images/ma.jpg
+mc,Monaco,flag_images/mc.jpg
+md,"Moldova, Republic of",flag_images/md.jpg
+me,Montenegro,flag_images/me.jpg
+mf,Saint Martin,flag_images/mf.jpg
+mg,Madagascar,flag_images/mg.jpg
+mh,Marshall Islands,flag_images/mh.jpg
+mk,North Macedonia,flag_images/mk.jpg
+ml,Mali,flag_images/ml.jpg
+mm,Myanmar,flag_images/mm.jpg
+mn,Mongolia,flag_images/mn.jpg
+mr,Mauritania,flag_images/mr.jpg
+ms,Montserrat,flag_images/ms.jpg
+mt,Malta,flag_images/mt.jpg
+mu,Mauritius,flag_images/mu.jpg
+mv,Maldives,flag_images/mv.jpg
+mw,Malawi,flag_images/mw.jpg
+mx,Mexico,flag_images/mx.jpg
+my,Malaysia,flag_images/my.jpg
+mz,Mozambique,flag_images/mz.jpg
+na,Namibia,flag_images/na.jpg
+ne,Niger,flag_images/ne.jpg
+nf,Norfolk Island,flag_images/nf.jpg
+ng,Nigeria,flag_images/ng.jpg
+ni,Nicaragua,flag_images/ni.jpg
+no,Norway,flag_images/no.jpg
+np,Nepal,flag_images/np.jpg
+nr,Nauru,flag_images/nr.jpg
+nu,Niue,flag_images/nu.jpg
+nz,New Zealand,flag_images/nz.jpg
+om,Oman,flag_images/om.jpg
+pa,Panama,flag_images/pa.jpg
+pe,Peru,flag_images/pe.jpg
+pf,French Polynesia,flag_images/pf.jpg
+pg,Papua New Guinea,flag_images/pg.jpg
+ph,Philippines,flag_images/ph.jpg
+pk,Pakistan,flag_images/pk.jpg
+pl,Poland,flag_images/pl.jpg
+pn,Pitcairn,flag_images/pn.jpg
+pr,Puerto Rico,flag_images/pr.jpg
+ps,Palestine,flag_images/ps.jpg
+pt,Portugal,flag_images/pt.jpg
+pw,Palau,flag_images/pw.jpg
+py,Paraguay,flag_images/py.jpg
+qa,Qatar,flag_images/qa.jpg
+re,Réunion,flag_images/re.jpg
+ro,Romania,flag_images/ro.jpg
+ru,Russian Federation,flag_images/ru.jpg
+rw,Rwanda,flag_images/rw.jpg
+sa,Saudi Arabia,flag_images/sa.jpg
+sb,Solomon Islands,flag_images/sb.jpg
+sc,Seychelles,flag_images/sc.jpg
+sd,Sudan,flag_images/sd.jpg
+se,Sweden,flag_images/se.jpg
+sg,Singapore,flag_images/sg.jpg
+sh,"Saint Helena, Ascension and Tristan da Cunha",flag_images/sh.jpg
+sk,Slovakia,flag_images/sk.jpg
+sl,Sierra Leone,flag_images/sl.jpg
+sn,Senegal,flag_images/sn.jpg
+so,Somalia,flag_images/so.jpg
+sr,Suriname,flag_images/sr.jpg
+ss,South Sudan,flag_images/ss.jpg
+st,Sao Tome and Principe,flag_images/st.jpg
+sv,El Salvador,flag_images/sv.jpg
+sy,Syrian Arab Republic,flag_images/sy.jpg
+sz,Kingdom of Eswatini,flag_images/sz.jpg
+tc,Turks and Caicos Islands,flag_images/tc.jpg
+td,Chad,flag_images/td.jpg
+tg,Togo,flag_images/tg.jpg
+th,Thailand,flag_images/th.jpg
+tj,Tajikistan,flag_images/tj.jpg
+tk,Tokelau,flag_images/tk.jpg
+tl,Timor-Leste,flag_images/tl.jpg
+tm,Turkmenistan,flag_images/tm.jpg
+tn,Tunisia,flag_images/tn.jpg
+to,Tonga,flag_images/to.jpg
+tr,Republic of Türkiye,flag_images/tr.jpg
+tt,Trinidad and Tobago,flag_images/tt.jpg
+tv,Tuvalu,flag_images/tv.jpg
+tz,"Tanzania, United Republic of",flag_images/tz.jpg
+ua,Ukraine,flag_images/ua.jpg
+ug,Uganda,flag_images/ug.jpg
+us,United States,flag_images/us.jpg
+uy,Uruguay,flag_images/uy.jpg
+uz,Uzbekistan,flag_images/uz.jpg
+va,Holy See (Vatican City State),flag_images/va.jpg
+vc,Saint Vincent and the Grenadines,flag_images/vc.jpg
+ve,"Venezuela, Bolivarian Republic of",flag_images/ve.jpg
+vg,"Virgin Islands, British",flag_images/vg.jpg
+vi,"Virgin Islands, U.S.",flag_images/vi.jpg
+vn,Vietnam,flag_images/vn.jpg
+vu,Vanuatu,flag_images/vu.jpg
+ws,Samoa,flag_images/ws.jpg
+ye,Yemen,flag_images/ye.jpg
+za,South Africa,flag_images/za.jpg
+zm,Zambia,flag_images/zm.jpg
+zw,Zimbabwe,flag_images/zw.jpg

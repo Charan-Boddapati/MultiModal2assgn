@@ -1,0 +1,209 @@
+country_code,country_name,anthem_music_path
+ad,Andorra,anthems_music/ad.mp3
+ae,United Arab Emirates,anthems_music/ae.mp3
+af,Afghanistan,anthems_music/af.mp3
+ag,Antigua and Barbuda,anthems_music/ag.mp3
+ai,Anguilla,anthems_music/ai.mp3
+al,Albania,anthems_music/al.mp3
+am,Armenia,anthems_music/am.mp3
+ao,Angola,anthems_music/ao.mp3
+ar,Argentina,anthems_music/ar.mp3
+at,Austria,anthems_music/at.mp3
+au,Australia,anthems_music/au.mp3
+aw,Aruba,anthems_music/aw.mp3
+ax,Åland Islands,anthems_music/ax.mp3
+az,Azerbaijan,anthems_music/az.mp3
+bb,Barbados,anthems_music/bb.mp3
+bd,Bangladesh,anthems_music/bd.mp3
+bf,Burkina Faso,anthems_music/bf.mp3
+bg,Bulgaria,anthems_music/bg.mp3
+bh,Bahrain,anthems_music/bh.mp3
+bj,Benin,anthems_music/bj.mp3
+bl,Saint Barthélemy,anthems_music/bl.mp3
+bm,Bermuda,anthems_music/bm.mp3
+bn,Brunei Darussalam,anthems_music/bn.mp3
+bo,"Bolivia, Plurinational State of",anthems_music/bo.mp3
+br,Brazil,anthems_music/br.mp3
+bs,Bahamas,anthems_music/bs.mp3
+bt,Bhutan,anthems_music/bt.mp3
+bw,Botswana,anthems_music/bw.mp3
+by,Belarus,anthems_music/by.mp3
+bz,Belize,anthems_music/bz.mp3
+ca,Canada,anthems_music/ca.mp3
+cd,"Congo, the Democratic Republic of the",anthems_music/cd.mp3
+cf,Central African Republic,anthems_music/cf.mp3
+cg,Republic of the Congo,anthems_music/cg.mp3
+ci,Côte d'Ivoire,anthems_music/ci.mp3
+ck,Cook Islands,anthems_music/ck.mp3
+cl,Chile,anthems_music/cl.mp3
+cm,Cameroon,anthems_music/cm.mp3
+cn,China (People's Republic of China),anthems_music/cn.mp3
+co,Colombia,anthems_music/co.mp3
+cr,Costa Rica,anthems_music/cr.mp3
+cu,Cuba,anthems_music/cu.mp3
+cv,Cape Verde,anthems_music/cv.mp3
+cw,Curaçao,anthems_music/cw.mp3
+cz,Czech Republic,anthems_music/cz.mp3
+de,Germany,anthems_music/de.mp3
+dj,Djibouti,anthems_music/dj.mp3
+dm,Dominica,anthems_music/dm.mp3
+do,Dominican Republic,anthems_music/do.mp3
+dz,Algeria,anthems_music/dz.mp3
+ee,Estonia,anthems_music/ee.mp3
+eg,Egypt,anthems_music/eg.mp3
+eh,Western Sahara,anthems_music/eh.mp3
+er,Eritrea,anthems_music/er.mp3
+et,Ethiopia,anthems_music/et.mp3
+fj,Fiji,anthems_music/fj.mp3
+fk,Falkland Islands (Malvinas),anthems_music/fk.mp3
+fm,"Micronesia, Federated States of",anthems_music/fm.mp3
+fr,France,anthems_music/fr.mp3
+ga,Gabon,anthems_music/ga.mp3
+gb,United Kingdom,anthems_music/gb.mp3
+gd,Grenada,anthems_music/gd.mp3
+ge,Georgia,anthems_music/ge.mp3
+gg,Guernsey,anthems_music/gg.mp3
+gh,Ghana,anthems_music/gh.mp3
+gi,Gibraltar,anthems_music/gi.mp3
+gl,Greenland,anthems_music/gl.mp3
+gm,Gambia,anthems_music/gm.mp3
+gn,Guinea,anthems_music/gn.mp3
+gq,Equatorial Guinea,anthems_music/gq.mp3
+gt,Guatemala,anthems_music/gt.mp3
+gu,Guam,anthems_music/gu.mp3
+gw,Guinea-Bissau,anthems_music/gw.mp3
+gy,Guyana,anthems_music/gy.mp3
+hn,Honduras,anthems_music/hn.mp3
+hr,Croatia,anthems_music/hr.mp3
+ht,Haiti,anthems_music/ht.mp3
+hu,Hungary,anthems_music/hu.mp3
+id,Indonesia,anthems_music/id.mp3
+ie,Ireland,anthems_music/ie.mp3
+il,Israel,anthems_music/il.mp3
+im,Isle of Man,anthems_music/im.mp3
+in,India,anthems_music/in.mp3
+iq,Iraq,anthems_music/iq.mp3
+ir,"Iran, Islamic Republic of",anthems_music/ir.mp3
+it,Italy,anthems_music/it.mp3
+je,Jersey,anthems_music/je.mp3
+jm,Jamaica,anthems_music/jm.mp3
+jo,Jordan,anthems_music/jo.mp3
+jp,Japan,anthems_music/jp.mp3
+ke,Kenya,anthems_music/ke.mp3
+kg,Kyrgyzstan,anthems_music/kg.mp3
+kh,Cambodia,anthems_music/kh.mp3
+ki,Kiribati,anthems_music/ki.mp3
+km,Comoros,anthems_music/km.mp3
+kn,Saint Kitts and Nevis,anthems_music/kn.mp3
+kp,"Korea, Democratic People's Republic of",anthems_music/kp.mp3
+kr,"Korea, Republic of",anthems_music/kr.mp3
+kw,Kuwait,anthems_music/kw.mp3
+ky,Cayman Islands,anthems_music/ky.mp3
+kz,Kazakhstan,anthems_music/kz.mp3
+la,Laos (Lao People's Democratic Republic),anthems_music/la.mp3
+lb,Lebanon,anthems_music/lb.mp3
+lc,Saint Lucia,anthems_music/lc.mp3
+li,Liechtenstein,anthems_music/li.mp3
+lr,Liberia,anthems_music/lr.mp3
+ls,Lesotho,anthems_music/ls.mp3
+lt,Lithuania,anthems_music/lt.mp3
+lu,Luxembourg,anthems_music/lu.mp3
+lv,Latvia,anthems_music/lv.mp3
+ly,Libya,anthems_music/ly.mp3
+ma,Morocco,anthems_music/ma.mp3
+mc,Monaco,anthems_music/mc.mp3
+md,"Moldova, Republic of",anthems_music/md.mp3
+me,Montenegro,anthems_music/me.mp3
+mf,Saint Martin,anthems_music/mf.mp3
+mg,Madagascar,anthems_music/mg.mp3
+mh,Marshall Islands,anthems_music/mh.mp3
+mk,North Macedonia,anthems_music/mk.mp3
+ml,Mali,anthems_music/ml.mp3
+mm,Myanmar,anthems_music/mm.mp3
+mn,Mongolia,anthems_music/mn.mp3
+mr,Mauritania,anthems_music/mr.mp3
+ms,Montserrat,anthems_music/ms.mp3
+mt,Malta,anthems_music/mt.mp3
+mu,Mauritius,anthems_music/mu.mp3
+mv,Maldives,anthems_music/mv.mp3
+mw,Malawi,anthems_music/mw.mp3
+mx,Mexico,anthems_music/mx.mp3
+my,Malaysia,anthems_music/my.mp3
+mz,Mozambique,anthems_music/mz.mp3
+na,Namibia,anthems_music/na.mp3
+ne,Niger,anthems_music/ne.mp3
+nf,Norfolk Island,anthems_music/nf.mp3
+ng,Nigeria,anthems_music/ng.mp3
+ni,Nicaragua,anthems_music/ni.mp3
+no,Norway,anthems_music/no.mp3
+np,Nepal,anthems_music/np.mp3
+nr,Nauru,anthems_music/nr.mp3
+nu,Niue,anthems_music/nu.mp3
+nz,New Zealand,anthems_music/nz.mp3
+om,Oman,anthems_music/om.mp3
+pa,Panama,anthems_music/pa.mp3
+pe,Peru,anthems_music/pe.mp3
+pf,French Polynesia,anthems_music/pf.mp3
+pg,Papua New Guinea,anthems_music/pg.mp3
+ph,Philippines,anthems_music/ph.mp3
+pk,Pakistan,anthems_music/pk.mp3
+pl,Poland,anthems_music/pl.mp3
+pn,Pitcairn,anthems_music/pn.mp3
+pr,Puerto Rico,anthems_music/pr.mp3
+ps,Palestine,anthems_music/ps.mp3
+pt,Portugal,anthems_music/pt.mp3
+pw,Palau,anthems_music/pw.mp3
+py,Paraguay,anthems_music/py.mp3
+qa,Qatar,anthems_music/qa.mp3
+re,Réunion,anthems_music/re.mp3
+ro,Romania,anthems_music/ro.mp3
+ru,Russian Federation,anthems_music/ru.mp3
+rw,Rwanda,anthems_music/rw.mp3
+sa,Saudi Arabia,anthems_music/sa.mp3
+sb,Solomon Islands,anthems_music/sb.mp3
+sc,Seychelles,anthems_music/sc.mp3
+sd,Sudan,anthems_music/sd.mp3
+se,Sweden,anthems_music/se.mp3
+sg,Singapore,anthems_music/sg.mp3
+sh,"Saint Helena, Ascension and Tristan da Cunha",anthems_music/sh.mp3
+sk,Slovakia,anthems_music/sk.mp3
+sl,Sierra Leone,anthems_music/sl.mp3
+sn,Senegal,anthems_music/sn.mp3
+so,Somalia,anthems_music/so.mp3
+sr,Suriname,anthems_music/sr.mp3
+ss,South Sudan,anthems_music/ss.mp3
+st,Sao Tome and Principe,anthems_music/st.mp3
+sv,El Salvador,anthems_music/sv.mp3
+sy,Syrian Arab Republic,anthems_music/sy.mp3
+sz,Kingdom of Eswatini,anthems_music/sz.mp3
+tc,Turks and Caicos Islands,anthems_music/tc.mp3
+td,Chad,anthems_music/td.mp3
+tg,Togo,anthems_music/tg.mp3
+th,Thailand,anthems_music/th.mp3
+tj,Tajikistan,anthems_music/tj.mp3
+tk,Tokelau,anthems_music/tk.mp3
+tl,Timor-Leste,anthems_music/tl.mp3
+tm,Turkmenistan,anthems_music/tm.mp3
+tn,Tunisia,anthems_music/tn.mp3
+to,Tonga,anthems_music/to.mp3
+tr,Republic of Türkiye,anthems_music/tr.mp3
+tt,Trinidad and Tobago,anthems_music/tt.mp3
+tv,Tuvalu,anthems_music/tv.mp3
+tz,"Tanzania, United Republic of",anthems_music/tz.mp3
+ua,Ukraine,anthems_music/ua.mp3
+ug,Uganda,anthems_music/ug.mp3
+us,United States,anthems_music/us.mp3
+uy,Uruguay,anthems_music/uy.mp3
+uz,Uzbekistan,anthems_music/uz.mp3
+va,Holy See (Vatican City State),anthems_music/va.mp3
+vc,Saint Vincent and the Grenadines,anthems_music/vc.mp3
+ve,"Venezuela, Bolivarian Republic of",anthems_music/ve.mp3
+vg,"Virgin Islands, British",anthems_music/vg.mp3
+vi,"Virgin Islands, U.S.",anthems_music/vi.mp3
+vn,Vietnam,anthems_music/vn.mp3
+vu,Vanuatu,anthems_music/vu.mp3
+ws,Samoa,anthems_music/ws.mp3
+ye,Yemen,anthems_music/ye.mp3
+za,South Africa,anthems_music/za.mp3
+zm,Zambia,anthems_music/zm.mp3
+zw,Zimbabwe,anthems_music/zw.mp3

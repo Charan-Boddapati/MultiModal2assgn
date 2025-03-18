@@ -1,0 +1,209 @@
+country_code,country_name,anthem_text_path
+ad,Andorra,anthems_text/ad.txt
+ae,United Arab Emirates,anthems_text/ae.txt
+af,Afghanistan,anthems_text/af.txt
+ag,Antigua and Barbuda,anthems_text/ag.txt
+ai,Anguilla,anthems_text/ai.txt
+al,Albania,anthems_text/al.txt
+am,Armenia,anthems_text/am.txt
+ao,Angola,anthems_text/ao.txt
+ar,Argentina,anthems_text/ar.txt
+at,Austria,anthems_text/at.txt
+au,Australia,anthems_text/au.txt
+aw,Aruba,anthems_text/aw.txt
+ax,Åland Islands,anthems_text/ax.txt
+az,Azerbaijan,anthems_text/az.txt
+bb,Barbados,anthems_text/bb.txt
+bd,Bangladesh,anthems_text/bd.txt
+bf,Burkina Faso,anthems_text/bf.txt
+bg,Bulgaria,anthems_text/bg.txt
+bh,Bahrain,anthems_text/bh.txt
+bj,Benin,anthems_text/bj.txt
+bl,Saint Barthélemy,anthems_text/bl.txt
+bm,Bermuda,anthems_text/bm.txt
+bn,Brunei Darussalam,anthems_text/bn.txt
+bo,"Bolivia, Plurinational State of",anthems_text/bo.txt
+br,Brazil,anthems_text/br.txt
+bs,Bahamas,anthems_text/bs.txt
+bt,Bhutan,anthems_text/bt.txt
+bw,Botswana,anthems_text/bw.txt
+by,Belarus,anthems_text/by.txt
+bz,Belize,anthems_text/bz.txt
+ca,Canada,anthems_text/ca.txt
+cd,"Congo, the Democratic Republic of the",anthems_text/cd.txt
+cf,Central African Republic,anthems_text/cf.txt
+cg,Republic of the Congo,anthems_text/cg.txt
+ci,Côte d'Ivoire,anthems_text/ci.txt
+ck,Cook Islands,anthems_text/ck.txt
+cl,Chile,anthems_text/cl.txt
+cm,Cameroon,anthems_text/cm.txt
+cn,China (People's Republic of China),anthems_text/cn.txt
+co,Colombia,anthems_text/co.txt
+cr,Costa Rica,anthems_text/cr.txt
+cu,Cuba,anthems_text/cu.txt
+cv,Cape Verde,anthems_text/cv.txt
+cw,Curaçao,anthems_text/cw.txt
+cz,Czech Republic,anthems_text/cz.txt
+de,Germany,anthems_text/de.txt
+dj,Djibouti,anthems_text/dj.txt
+dm,Dominica,anthems_text/dm.txt
+do,Dominican Republic,anthems_text/do.txt
+dz,Algeria,anthems_text/dz.txt
+ee,Estonia,anthems_text/ee.txt
+eg,Egypt,anthems_text/eg.txt
+eh,Western Sahara,anthems_text/eh.txt
+er,Eritrea,anthems_text/er.txt
+et,Ethiopia,anthems_text/et.txt
+fj,Fiji,anthems_text/fj.txt
+fk,Falkland Islands (Malvinas),anthems_text/fk.txt
+fm,"Micronesia, Federated States of",anthems_text/fm.txt
+fr,France,anthems_text/fr.txt
+ga,Gabon,anthems_text/ga.txt
+gb,United Kingdom,anthems_text/gb.txt
+gd,Grenada,anthems_text/gd.txt
+ge,Georgia,anthems_text/ge.txt
+gg,Guernsey,anthems_text/gg.txt
+gh,Ghana,anthems_text/gh.txt
+gi,Gibraltar,anthems_text/gi.txt
+gl,Greenland,anthems_text/gl.txt
+gm,Gambia,anthems_text/gm.txt
+gn,Guinea,anthems_text/gn.txt
+gq,Equatorial Guinea,anthems_text/gq.txt
+gt,Guatemala,anthems_text/gt.txt
+gu,Guam,anthems_text/gu.txt
+gw,Guinea-Bissau,anthems_text/gw.txt
+gy,Guyana,anthems_text/gy.txt
+hn,Honduras,anthems_text/hn.txt
+hr,Croatia,anthems_text/hr.txt
+ht,Haiti,anthems_text/ht.txt
+hu,Hungary,anthems_text/hu.txt
+id,Indonesia,anthems_text/id.txt
+ie,Ireland,anthems_text/ie.txt
+il,Israel,anthems_text/il.txt
+im,Isle of Man,anthems_text/im.txt
+in,India,anthems_text/in.txt
+iq,Iraq,anthems_text/iq.txt
+ir,"Iran, Islamic Republic of",anthems_text/ir.txt
+it,Italy,anthems_text/it.txt
+je,Jersey,anthems_text/je.txt
+jm,Jamaica,anthems_text/jm.txt
+jo,Jordan,anthems_text/jo.txt
+jp,Japan,anthems_text/jp.txt
+ke,Kenya,anthems_text/ke.txt
+kg,Kyrgyzstan,anthems_text/kg.txt
+kh,Cambodia,anthems_text/kh.txt
+ki,Kiribati,anthems_text/ki.txt
+km,Comoros,anthems_text/km.txt
+kn,Saint Kitts and Nevis,anthems_text/kn.txt
+kp,"Korea, Democratic People's Republic of",anthems_text/kp.txt
+kr,"Korea, Republic of",anthems_text/kr.txt
+kw,Kuwait,anthems_text/kw.txt
+ky,Cayman Islands,anthems_text/ky.txt
+kz,Kazakhstan,anthems_text/kz.txt
+la,Laos (Lao People's Democratic Republic),anthems_text/la.txt
+lb,Lebanon,anthems_text/lb.txt
+lc,Saint Lucia,anthems_text/lc.txt
+li,Liechtenstein,anthems_text/li.txt
+lr,Liberia,anthems_text/lr.txt
+ls,Lesotho,anthems_text/ls.txt
+lt,Lithuania,anthems_text/lt.txt
+lu,Luxembourg,anthems_text/lu.txt
+lv,Latvia,anthems_text/lv.txt
+ly,Libya,anthems_text/ly.txt
+ma,Morocco,anthems_text/ma.txt
+mc,Monaco,anthems_text/mc.txt
+md,"Moldova, Republic of",anthems_text/md.txt
+me,Montenegro,anthems_text/me.txt
+mf,Saint Martin,anthems_text/mf.txt
+mg,Madagascar,anthems_text/mg.txt
+mh,Marshall Islands,anthems_text/mh.txt
+mk,North Macedonia,anthems_text/mk.txt
+ml,Mali,anthems_text/ml.txt
+mm,Myanmar,anthems_text/mm.txt
+mn,Mongolia,anthems_text/mn.txt
+mr,Mauritania,anthems_text/mr.txt
+ms,Montserrat,anthems_text/ms.txt
+mt,Malta,anthems_text/mt.txt
+mu,Mauritius,anthems_text/mu.txt
+mv,Maldives,anthems_text/mv.txt
+mw,Malawi,anthems_text/mw.txt
+mx,Mexico,anthems_text/mx.txt
+my,Malaysia,anthems_text/my.txt
+mz,Mozambique,anthems_text/mz.txt
+na,Namibia,anthems_text/na.txt
+ne,Niger,anthems_text/ne.txt
+nf,Norfolk Island,anthems_text/nf.txt
+ng,Nigeria,anthems_text/ng.txt
+ni,Nicaragua,anthems_text/ni.txt
+no,Norway,anthems_text/no.txt
+np,Nepal,anthems_text/np.txt
+nr,Nauru,anthems_text/nr.txt
+nu,Niue,anthems_text/nu.txt
+nz,New Zealand,anthems_text/nz.txt
+om,Oman,anthems_text/om.txt
+pa,Panama,anthems_text/pa.txt
+pe,Peru,anthems_text/pe.txt
+pf,French Polynesia,anthems_text/pf.txt
+pg,Papua New Guinea,anthems_text/pg.txt
+ph,Philippines,anthems_text/ph.txt
+pk,Pakistan,anthems_text/pk.txt
+pl,Poland,anthems_text/pl.txt
+pn,Pitcairn,anthems_text/pn.txt
+pr,Puerto Rico,anthems_text/pr.txt
+ps,Palestine,anthems_text/ps.txt
+pt,Portugal,anthems_text/pt.txt
+pw,Palau,anthems_text/pw.txt
+py,Paraguay,anthems_text/py.txt
+qa,Qatar,anthems_text/qa.txt
+re,Réunion,anthems_text/re.txt
+ro,Romania,anthems_text/ro.txt
+ru,Russian Federation,anthems_text/ru.txt
+rw,Rwanda,anthems_text/rw.txt
+sa,Saudi Arabia,anthems_text/sa.txt
+sb,Solomon Islands,anthems_text/sb.txt
+sc,Seychelles,anthems_text/sc.txt
+sd,Sudan,anthems_text/sd.txt
+se,Sweden,anthems_text/se.txt
+sg,Singapore,anthems_text/sg.txt
+sh,"Saint Helena, Ascension and Tristan da Cunha",anthems_text/sh.txt
+sk,Slovakia,anthems_text/sk.txt
+sl,Sierra Leone,anthems_text/sl.txt
+sn,Senegal,anthems_text/sn.txt
+so,Somalia,anthems_text/so.txt
+sr,Suriname,anthems_text/sr.txt
+ss,South Sudan,anthems_text/ss.txt
+st,Sao Tome and Principe,anthems_text/st.txt
+sv,El Salvador,anthems_text/sv.txt
+sy,Syrian Arab Republic,anthems_text/sy.txt
+sz,Kingdom of Eswatini,anthems_text/sz.txt
+tc,Turks and Caicos Islands,anthems_text/tc.txt
+td,Chad,anthems_text/td.txt
+tg,Togo,anthems_text/tg.txt
+th,Thailand,anthems_text/th.txt
+tj,Tajikistan,anthems_text/tj.txt
+tk,Tokelau,anthems_text/tk.txt
+tl,Timor-Leste,anthems_text/tl.txt
+tm,Turkmenistan,anthems_text/tm.txt
+tn,Tunisia,anthems_text/tn.txt
+to,Tonga,anthems_text/to.txt
+tr,Republic of Türkiye,anthems_text/tr.txt
+tt,Trinidad and Tobago,anthems_text/tt.txt
+tv,Tuvalu,anthems_text/tv.txt
+tz,"Tanzania, United Republic of",anthems_text/tz.txt
+ua,Ukraine,anthems_text/ua.txt
+ug,Uganda,anthems_text/ug.txt
+us,United States,anthems_text/us.txt
+uy,Uruguay,anthems_text/uy.txt
+uz,Uzbekistan,anthems_text/uz.txt
+va,Holy See (Vatican City State),anthems_text/va.txt
+vc,Saint Vincent and the Grenadines,anthems_text/vc.txt
+ve,"Venezuela, Bolivarian Republic of",anthems_text/ve.txt
+vg,"Virgin Islands, British",anthems_text/vg.txt
+vi,"Virgin Islands, U.S.",anthems_text/vi.txt
+vn,Vietnam,anthems_text/vn.txt
+vu,Vanuatu,anthems_text/vu.txt
+ws,Samoa,anthems_text/ws.txt
+ye,Yemen,anthems_text/ye.txt
+za,South Africa,anthems_text/za.txt
+zm,Zambia,anthems_text/zm.txt
+zw,Zimbabwe,anthems_text/zw.txt
